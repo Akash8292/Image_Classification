@@ -19,6 +19,7 @@ Our Image Classification System is an innovative project focused on harnessing t
   ![5](https://github.com/Akash8292/Image_Classification/assets/97883391/8a5683eb-55a9-4f3c-9e4f-29b14718a7fa)
 
 * Image_Prediction
- ![4](https://github.com/Akash8292/Image_Classification/assets/97883391/fa2cc28f-105a-4aaa-9548-649f22879f45)
+
+![Screenshot 2024-01-20 033050](https://github.com/Akash8292/Image_Classification/assets/97883391/0c90089f-e541-4ce2-9b68-15e860e631ba)
 
 
