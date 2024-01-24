@@ -4,7 +4,7 @@
 Our Image Classification System is an innovative project focused on harnessing the power of artificial intelligence to accurately categorize and label images. Leveraging advanced deep learning algorithms, the system learns to recognize patterns and features within images, allowing it to classify them into predefined categories with impressive precision.
 
 ## Technologies Used
-* HTML
+* python
 * Flask
 * Tenserflow
 * Keras
